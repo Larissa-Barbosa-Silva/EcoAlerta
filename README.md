@@ -85,10 +85,10 @@ As imagens das principais telas da aplicação serão apresentadas nesta seção
 
 Projeto desenvolvido coletivamente pelos alunos:
 
-Alexandry Ravara Vanin - R4536B1 - S.I - 1º Semestre.
-Aline Cirino - H003FJ9 - S.I - 1º Semestre.
-Gustavo Santana Cardoso - R444384 - S.I - 1º Semestre.
-Ivan Mendes - H9983F6 - S.I - 1º Semestre.
+Alexandry Ravara Vanin - R4536B1 - S.I - 1º Semestre. | 
+Aline Cirino - H003FJ9 - S.I - 1º Semestre. | 
+Gustavo Santana Cardoso - R444384 - S.I - 1º Semestre. | 
+Ivan Mendes - H9983F6 - S.I - 1º Semestre. | 
 Larissa Barbosa da Silva - R445542  - S.I - 1º Semestre.
 
 ## 🎓 Instituição de ensino
